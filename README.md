@@ -13,7 +13,7 @@
 - 🔧 Mejores prácticas de desarrollo web  
 
 ## 📫 Cómo contactarme
-- 📧 Email: [quiej7959@mail.com](mailto:quiej7959@mail.com)
+- 📧 Email: [quiej7959@mail.com](mailto:quiej7959@gmail.com)
 
 ## 📁 Algunos de mis proyectos
 - Puedes ver algunos de mis proyectos en la sección de repositorios. ¡Estoy constantemente subiendo más!
